@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "kidsof"         # 用户名
 UUID = ""                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = ""                   # 域名，留空则自动获取
+DOMAIN = "kids.wunanfouder.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiMzVhOGY1YjE0OTVkYmM4NDA2NWE4NzdlYTMyOWE3MDUiLCJ0IjoiOTA2YWVjOTQtYTI0MC00MjExLWJhY2EtYzM3YTIwNWM0ZjAxIiwicyI6IlkyUTFNelJsT0RjdE1ESXhNUzAwWldZNUxXRTRZbVF0WkRoak16QTRObUl4T1RjeCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
